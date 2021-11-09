@@ -1,0 +1,26 @@
+.listTask__styling {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 10px;
+  
+}
+
+.listTask-btn__styling {
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 10px;
+  font-family: "Montserrat", sans-serif;
+  transition-duration: 0.4s;
+  background-color: whitesmoke;
+  color: black;
+}
+
+p {
+  width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

@@ -1,0 +1,30 @@
+.form__styling{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+
+.input__styling{
+    border: none;
+    border-radius: 10px;
+    font-size: 10px;
+    
+}
+.submit-btn__styling{
+    border: none;
+    border-radius: 10px;
+    padding: 5px ;
+    font-size: 10px;
+    font-family: "Montserrat", sans-serif;
+    transition-duration: 0.4s;
+    background-color: whitesmoke;
+    color: black;
+
+
+}
+
+  .submit-btn__styling:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
